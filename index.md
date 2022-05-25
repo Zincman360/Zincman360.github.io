@@ -2,12 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/Zincman360/Zincman360.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-# Test 1
-## Test 2
-### Test 3
-
-This is a test of if this changes my website text.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
